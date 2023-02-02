@@ -14,7 +14,7 @@ regianal comment - purpose to explain/describe code
 #print("it's our 2nd python class")
 
 #print("Hello World")
-
+'''
 #print("Hello World".lower())
 
 print(' hello world '.strip())
@@ -24,7 +24,7 @@ print("hello " + "world")
 print(1+2)
 print(1/2)
 print(1-2)
-'''
+
 
 my_num=123
 print(my_num+1)
