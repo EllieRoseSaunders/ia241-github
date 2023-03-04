@@ -1,0 +1,1 @@
+print (len(('this is a string').split()))
