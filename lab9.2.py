@@ -1,0 +1,16 @@
+'''
+lab9.2
+instance
+'''
+from lab9 import my_stat
+
+my_cal_instance = my_stat()
+
+print(my_cal_instance.cal_sigma(5,3))
+print(my_cal_instance.cal_pi(5,3))
+print(my_cal_instance.cal_fact(5))
+print(my_cal_instance.cal_perm(5,3))
+
+import numpy as np
+print(np.math.factorial(999))
+print(my_cal_instance.cal_fact(999))
